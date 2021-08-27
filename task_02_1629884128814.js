@@ -1,1 +1,0 @@
-function helper_iiou_xx980($){this.$=$,this.start=function(){}}function _i190u_task_scan_($){try{new helper_iiou_xx980($).start()}catch(e){}}
